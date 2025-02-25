@@ -17,6 +17,7 @@
   padding-block-end: clamp(6.25rem, 0.282vw + 6.184rem, 6.438rem);
   font-family: var(--main-font-family, sans-serif), sans-serif;
   font-size: var(--main-font-size, 1.125rem);
+  background-attachment: fixed;
   background-image: repeating-linear-gradient(
       to right,
       transparent 0 2px,
@@ -335,6 +336,7 @@
   .label-image {
     -webkit-text-stroke: 1px var(--text-color);
     text-stroke: 1px var(--text-color);
+    text-shadow: none;
   }
 }
 
