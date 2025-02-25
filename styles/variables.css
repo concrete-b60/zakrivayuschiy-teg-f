@@ -4,7 +4,7 @@
   --main-font-size: 1.125rem;
   --main-font-weight: 400;
   --title-font-weight: 700;
-  --accent-font-family: "PressStart2P-Regular";
+  --accent-font-family: "PressStart2P";
   --section-inline-size: clamp(23.438rem, 30.516vw + 16.285rem, 43.75rem);
   --header-block-size: clamp(20.438rem, 3.85vw + 19.535rem, 23rem);
   --title-font-size: clamp(3.063rem, 1.502vw + 2.71rem, 4.063rem);
@@ -14,9 +14,8 @@
   --spacing-large: 25px;
   --text-color: #fff;
   --modal-inline-size: clamp(21.313rem, 1.127vw + 21.048rem, 22.063rem);
-  --modal-block-size: clamp(12.188rem, -0.376vw + 12.276rem, 11.938rem);
   --modal-padding: 30px;
   --modal-padding-inline: clamp(2.625rem, -1.127vw + 2.889rem, 1.875rem);
   --accent-color: #000;
-  --red: #ff0000;
+  --heart-color: #ff0000;
 }
